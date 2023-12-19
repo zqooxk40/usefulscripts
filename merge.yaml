@@ -1,0 +1,20 @@
+# Merge Template for clash verge
+# The `Merge` format used to enhance profile
+
+prepend-rules:
+     - DOMAIN-SUFFIX,vercel.app,🔰节点选择
+     - DOMAIN-SUFFIX,openai.com,🔰节点选择
+     - DOMAIN-SUFFIX,jsdelivr.net,🔰节点选择
+     - DOMAIN-SUFFIX,sspanel.net,🔰节点选择
+     - DOMAIN-SUFFIX,uscardforum.com,🔰节点选择
+     - DOMAIN-SUFFIX,wenxuecity.com,🔰节点选择
+
+prepend-proxies:
+
+prepend-proxy-groups:
+
+append-rules:
+
+append-proxies:
+
+append-proxy-groups:
